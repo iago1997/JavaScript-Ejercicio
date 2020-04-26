@@ -16,6 +16,7 @@
 
 <p> También he añadido algunos estilos para hacerlo más atractivo a la vista. </p>
 
+
 El programa:
 - Funciona igual aunque las palabras esten separadas por espacios.
 - no diferencia mayúsculas o minúsculas.
