@@ -9,9 +9,13 @@
 ~~~
 
   Si yo introduzco la palabra "Ana" me dirá que es palíndroma,
-  ya que ana se escribe igual de derecha a izquierda que de izquierda a derecha.
+  ya que Ana se escribe igual de derecha a izquierda que de izquierda a derecha.
   
 ~~~
 
 
 <p> También he añadido algunos estilos para hacerlo más atractivo a la vista. </p>
+
+El programa:
+- Funciona igual aunque las palabras esten separadas por espacios.
+- no diferencia mayúsculas o minúsculas.
