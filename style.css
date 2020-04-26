@@ -1,0 +1,19 @@
+body{
+    background-color: aquamarine;
+}
+
+input{
+    margin:0px auto; display:block;
+    margin-bottom: 20px;
+}
+
+h1,p{
+    margin-top: 20px;
+    text-align: center;
+}
+
+div{
+    border:1px solid black;
+    margin-left: 450px;
+    margin-right: 450px;
+}
