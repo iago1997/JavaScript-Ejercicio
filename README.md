@@ -8,7 +8,8 @@
 
 ~~~
 
-  Si yo introduzco la palabra "Ana" me dirá que es palíndroma, ya que ana se escribe igual de derecha a izquierda que de izquierda a derecha.
+  Si yo introduzco la palabra "Ana" me dirá que es palíndroma,
+  ya que ana se escribe igual de derecha a izquierda que de izquierda a derecha.
   
 ~~~
 
